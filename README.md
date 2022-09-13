@@ -1,3 +1,8 @@
+<a href="https://www.instagram.com/hyeonpearl/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-#E4405F?style=flat&logo=instagram&link=https://www.instagram.com/hyeonpearl/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonpearl&show_icons=true&theme=default)
 
 <!--
